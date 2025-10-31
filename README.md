@@ -1,6 +1,9 @@
 <div align="center">
   <p>
     <a align="center" href="https://www.labellerr.com/" target="_blank">
+      <a href="https://trackgit.com">
+        <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mhekogqktzej6g2xqnom" alt="trackgit-views" />
+      </a>
       <img
         width="850"
         src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/notebook.webp"
