@@ -1,9 +1,6 @@
 <div align="center">
   <p>
     <a align="center" href="https://www.labellerr.com/" target="_blank">
-      <a href="https://trackgit.com">
-        <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mhekogqktzej6g2xqnom" alt="trackgit-views" />
-      </a>
       <img
         width="850"
         src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/notebook.webp"
@@ -134,4 +131,7 @@ Here you'll find a curated collection of notebooks for state-of-the-art computer
 
 ## 💻 *run locally*
 
-We try to make it as easy as possible to run Labellerr Notebooks in Colab and Kaggle, but if you still want to run them locally, below you will find instructions on how to do it. Remember don't install your dependencies globally, use [venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).
+We try to make it as easy as possible to run Labellerr Notebooks in Colab and Kaggle, but if you still want to run them locally, below you will find instructions on how to do it. Remember don't install your dependencies globally, use [venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/).   
+<a href="https://trackgit.com">
+  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/mhekogqktzej6g2xqnom" alt="trackgit-views" />
+</a>
